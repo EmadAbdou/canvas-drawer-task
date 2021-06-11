@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "canvas-drawer-task": {
+      "hosting": {
+        "canvas-drawer-task": [
+          "canvas-drawer-task"
+        ]
+      }
+    }
+  }
+}
